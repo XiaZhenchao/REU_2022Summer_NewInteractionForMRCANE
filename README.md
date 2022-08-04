@@ -11,7 +11,7 @@ The iPhone's rear camera is used to obtain the estimation of the camera pose, wh
 
 
 ## Gesture menu
-The Gesture Menu as the new User Interface of Mobile AR.
+The Gesture Menu is the new User Interface of Mobile AR.
 Through the camera's pose displacement tracked by the rear camera, we can obtain the changes in the direction and distance of the camera. When the camera's pitch rotation is larger than 90 degrees, the gesture menu will be turned on and while the menu is on, the current option of the gesture menu will move to the next item automatically every two seconds. And if camera’s pitch rotation is small than 90 degrees, the menu will close and the currently selected item will be activated.
 
 
