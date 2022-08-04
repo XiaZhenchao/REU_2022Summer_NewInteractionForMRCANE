@@ -22,3 +22,8 @@ Through the camera's pose displacement tracked by the rear camera, we can obtain
 - Xcode 13.4.1
 - macOS Monterey 12.4 
 
+## Acknowledgments
+This project was created with the help of the following contributors
+- Director: [Dr. Wole Oyekoya](https://wolex.com/reu/)
+- Mentor: [Dr. Hao Tang](https://www.bmcc.cuny.edu/faculty/hao-tang/)
+
